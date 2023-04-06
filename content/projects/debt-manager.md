@@ -16,7 +16,7 @@ tags:
 showToc: false
 weight: 206
 cover:
-  image: "projects/debtIndex.jpg"
+  image: "projects/debtmanager.svg"
 ---
 
 ### 🔗 [View App](https://expo.dev/@harshalranjhani/debt-manager)

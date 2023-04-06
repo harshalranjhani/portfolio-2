@@ -13,4 +13,4 @@ weight: 304
 - Internshala's face in VIT.
 - Student partner for Internshala.
 
-<!-- ![](/experience/16bit/img1.jpeg#center) -->
+![](/experience/acm.jpg#center)

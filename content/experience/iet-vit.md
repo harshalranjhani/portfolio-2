@@ -14,4 +14,4 @@ weight: 303
 - Head of Projects at IET-VIT
 - IET-VIT was termed as the best student chapter in the year 2019-20
 
-<!-- ![](/experience/16bit/img1.jpeg#center) -->
+![](/experience/iett.png#center)

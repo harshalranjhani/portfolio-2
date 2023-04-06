@@ -14,4 +14,4 @@ weight: 302
 - Part of the web team at ACM
 - Built websites for many of ACM's flagship events.
 
-<!-- ![](/experience/16bit/img1.jpeg#center) -->
+![](/experience/internshala.png#center)
