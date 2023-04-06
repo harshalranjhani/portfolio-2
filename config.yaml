@@ -44,7 +44,7 @@ params:
     subtitle: "Full Stack Web Developer and Student"
     imageUrl: "home/harshal.jpg"
     imageWidth: 220
-    imageHeight: 240
+    imageHeight: 270
     buttons:
       - name: Resume
         url: "Resume.pdf"
