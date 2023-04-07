@@ -10,8 +10,7 @@ weight: 302
 
 ### Description
 
-- Senior Core Committee Member at ACM-VIT
-- Part of the web team at ACM
-- Built websites for many of ACM's flagship events.
+- Internshala's face in VIT.
+- Student partner for Internshala.
 
 ![](/experience/internshala.png#center)
