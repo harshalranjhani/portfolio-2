@@ -1,6 +1,6 @@
 ---
 title: "Full Stack Developer | Intern"
-description: "Soundverse.ai"
+description: "Stealth Startup"
 dateString: Jun 2023 - Ongoing
 draft: false
 tags:
@@ -14,9 +14,11 @@ tags:
     "CSS",
     "JavaScript",
     "Tailwindcss",
-    "Nodejs",
-    "Express",
-    "Google Cloud"
+    "Node.js",
+    "Express.js",
+    "Next.js",
+    "Nest.js",
+    "Google Cloud Platform",
   ]
 showToc: false
 weight: 301
@@ -24,6 +26,7 @@ weight: 301
 
 ### Description
 
-- Developer Intern at Soundverse.ai
+- Developer Intern at Stealth Startup
+- Experience with Google Cloud
 
-![](/experience/soundverse.svg#center)
+<!-- ![](/experience/soundverse.svg#center) -->
