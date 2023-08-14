@@ -61,7 +61,7 @@ params:
     - name: "email"
       url: "mailto:ranjhaniharshal@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/harshalranjhani"
+      url: "https://www.linkedin.com/in/harshal-ranjhani"
     - name: "github"
       url: "https://github.com/harshalranjhani"
 
