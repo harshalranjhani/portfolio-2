@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React.js on Harshal Ranjhani</title>
+    <link>https://harshal.tech/tags/react.js/</link>
+    <description>Recent content in React.js on Harshal Ranjhani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://harshal.tech/tags/react.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hear Me Out</title>
+      <link>https://harshal.tech/projects/hear-me-out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshal.tech/projects/hear-me-out/</guid>
+      <description>The ultimate Spotify Clone made with React.js.</description>
+    </item>
+    
+    <item>
+      <title>Xssorcist</title>
+      <link>https://harshal.tech/projects/xssorcist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshal.tech/projects/xssorcist/</guid>
+      <description>A very simple website Vulnerability Scanner I made for my information security class.</description>
+    </item>
+    
+    <item>
+      <title>Full Stack Developer | Intern</title>
+      <link>https://harshal.tech/experience/soundverse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshal.tech/experience/soundverse/</guid>
+      <description>Soundverse: AI first Audio Creation Platform for Audio and Music creators.</description>
+    </item>
+    
+    <item>
+      <title>Senior Core Committee Member</title>
+      <link>https://harshal.tech/experience/acm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshal.tech/experience/acm/</guid>
+      <description>ACM Student Chapter</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,7 +14,7 @@ tags:
     "JavaScript",
   ]
 showToc: false
-weight: 206
+weight: 207
 cover:
   image: "projects/debtmanager.svg"
 ---
