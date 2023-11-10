@@ -64,6 +64,8 @@ params:
       url: "https://www.linkedin.com/in/harshal-ranjhani"
     - name: "github"
       url: "https://github.com/harshalranjhani"
+    - name: "cal"
+      url: "https://cal.com/harshalranjhani"
 
   # text search
   fuseOpts:
