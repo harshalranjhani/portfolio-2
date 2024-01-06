@@ -1,7 +1,7 @@
 ---
 title: "Full Stack Developer | Intern"
 description: "Soundverse: AI first Audio Creation Platform for Audio and Music creators."
-dateString: Jun 2023 - Ongoing
+dateString: Jun 2023 - Dec 2023
 draft: false
 tags:
   [
