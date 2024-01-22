@@ -23,7 +23,7 @@ cover:
   image: "projects/hearmeout.PNG"
 ---
 
-### 🔗 [View App](https://hear-me-out.vercel.app/)
+### 🔗 [View App](https://hear-me-out.harshal.tech/)
 
 ### 🔗 [GitHub](https://github.com/harshalranjhani/hear-me-out---frontend)
 

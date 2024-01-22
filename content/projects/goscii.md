@@ -18,7 +18,7 @@ weight: 199
 #   image: "projects/go-furnace.png"
 ---
 
-### 🔗 [Releases](https://github.com/harshalranjhani/goscii/releases)
+### 🔗 [Releases](https://goscii.harshal.tech)
 
 ### 🔗 [GitHub](https://github.com/harshalranjhani/goscii/)
 

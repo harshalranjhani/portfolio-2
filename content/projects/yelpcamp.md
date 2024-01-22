@@ -22,7 +22,7 @@ cover:
   image: "projects/yelpcamp.PNG"
 ---
 
-### 🔗 [View App](http://experience-yelpcamp.vercel.app/)
+### 🔗 [View App](http://yelpcamp.harshal.tech/)
 
 ### 🔗 [GitHub](https://github.com/harshalranjhani/YelpCamp/)
 

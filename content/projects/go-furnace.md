@@ -16,7 +16,7 @@ cover:
   image: "projects/go-furnace.png"
 ---
 
-### 🔗 [Releases](https://github.com/harshalranjhani/go-furnace/releases)
+### 🔗 [Releases](https://go-furnace.harshal.tech)
 
 ### 🔗 [GitHub](https://github.com/harshalranjhani/go-furnace/)
 
