@@ -21,7 +21,7 @@ cover:
   image: "projects/xssorcist.png"
 ---
 
-### 🔗 [View App](https://xssorcist.vercel.app/)
+### 🔗 [View App](https://xssorcist.harshal.tech/)
 
 ### 🔗 [GitHub (frontend)](https://github.com/harshalranjhani/xssorcist)
 
