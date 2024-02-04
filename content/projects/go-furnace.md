@@ -22,6 +22,6 @@ cover:
 
 ## Description
 
-- A boilerplate generator for nodejs with MongoDB backend server.
+- A boilerplate generator various frameworks all at once.
 - Will be adding more templates soon
 - Goal is to use the power of go routines and create multiple boilerplates at the same time
