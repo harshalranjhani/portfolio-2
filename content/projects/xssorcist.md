@@ -18,7 +18,7 @@ tags:
 showToc: false
 weight: 205
 cover:
-  image: "projects/xssorcist.png"
+  image: "projects/xssorcist.jpeg"
 ---
 
 ### 🔗 [View App](https://xssorcist.harshal.tech/)
