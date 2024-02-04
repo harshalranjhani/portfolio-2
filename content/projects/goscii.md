@@ -14,8 +14,8 @@ tags:
   ]
 showToc: false
 weight: 199
-# cover:
-#   image: "projects/go-furnace.png"
+cover:
+  image: "projects/goscii.png"
 ---
 
 ### 🔗 [Releases](https://goscii.harshal.tech)
